@@ -1,0 +1,63 @@
+_repo: Van-vijf-moderne-dichters_13326
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13326-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Scharten, C. Th. (Carel Theodorus)
+    aliases:
+    - Scharten, Carel Theodorus
+    - SchartenAntink, C. Th. (Carel Theodorus)
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '5008'
+    url: http://www.gutenberg.org/2009/agents/5008
+    wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=scha043
+  - agent_name: Boutens, P. C.
+    aliases:
+    - De Hoghe, Andries
+    - Hoghe, Andries de
+    - Boutens, Petrus Cornelis
+    - Boutens, Pieter Cornelis
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '4086'
+    url: http://www.gutenberg.org/2009/agents/4086
+    wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=bout005
+  - agent_name: Vos, Margot
+    alias: Hilvers-Vos, Grietje
+    birthdate: 1891
+    deathdate: 1985
+    gutenberg_agent_id: '5007'
+    url: http://www.gutenberg.org/2009/agents/5007
+    wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=vos_019
+  - agent_name: Kloos, Willem
+    alias: Kloos, Willem Johannes Theodorus
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '5006'
+    url: http://www.gutenberg.org/2009/agents/5006
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Willem_Kloos
+    - http://nl.wikipedia.org/wiki/Willem_Kloos
+  - agent_name: Moens, Wies
+    birthdate: 1898
+    deathdate: 1982
+    gutenberg_agent_id: '5005'
+    url: http://www.gutenberg.org/2009/agents/5005
+    wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=moen007
+description: ''
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13326'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: Van vijf moderne dichters
+url: http://www.gutenberg.org/ebooks/13326
