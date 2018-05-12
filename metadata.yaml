@@ -48,6 +48,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5005
     wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=moen007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13326#Van-vijf-moderne-dichters
 gutenberg_issued: '2004-08-30'
 gutenberg_type: Text
 identifiers:
